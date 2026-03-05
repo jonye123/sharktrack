@@ -4,4 +4,5 @@ __pycache__/
 test.ipynb
 outputs/*
 .DS_Store
-models/species_classifiersmodels/cfd-yolov12x-1.00.pt
+models/species_classifiers*.pt
+models/cfd-yolov12x-1.00.pt
